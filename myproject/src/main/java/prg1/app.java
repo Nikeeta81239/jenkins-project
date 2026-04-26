@@ -16,6 +16,7 @@ public class app {
 		public static void main(String[] args) 
 		{
 			System.out.println(display(55));
+			System.out.println("Jenkins test");
 		}
 	}
 
